@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ragoncsa/java-demo/_apis/build/status/ragoncsa.pipelines-java?branchName=master)](https://dev.azure.com/ragoncsa/java-demo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
